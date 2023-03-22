@@ -1,7 +1,0 @@
-Va revisando el problema paso por paso y explica lo que va haciendo
-
-Se nota bastante calmado y piensa bien el problema
-
-conoce la sintaxis de fetch y addEventListener, pero quizas podría repasar un poco más los parametros que rcibe
-
-Recomendable que repase asincronia
